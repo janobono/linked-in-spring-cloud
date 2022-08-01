@@ -10,6 +10,8 @@
         <java.version>17</java.version>
     </properties>
     <modules>
-
+        <module>guest-services</module>
+        <module>reservation-services</module>
+        <module>room-services</module>
     </modules>
 </project>
