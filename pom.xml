@@ -13,5 +13,6 @@
         <module>guest-services</module>
         <module>reservation-services</module>
         <module>room-services</module>
+        <module>config-server</module>
     </modules>
 </project>

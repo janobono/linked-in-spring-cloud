@@ -1,7 +1,8 @@
-server:
-  port: 8802
-
 spring:
+  application:
+    name: roomservices
+  config:
+    import: optional:configserver:http://localhost:9000/
   jpa:
     hibernate:
       ddl-auto: none
