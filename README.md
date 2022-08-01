@@ -20,3 +20,5 @@ git commit -m "initial commit"
 ```
 
 ## Service Discovery
+
+[test url](http://localhost:8080/room-reservations?date=2020-01-01)
